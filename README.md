@@ -7,10 +7,13 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Newsletters](#newsletters)
 - [Books](#books)
 - [Courses](#courses)
+- [Papers](#papers)
 - [YouTube](#youtube)
 - [Podcasts](#podcasts)
 - [Communities](#communities)
 - [LinkedIn](#linkedin)
+- [Platforms](#platforms)
+- [Other Catalogs](#other-catalogs)
 
 ## Newsletters
 
@@ -28,13 +31,17 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Strategize Your Career](https://open.substack.com/pub/strategizeyourcareer)
 - [Saiyan Growth Letter](https://open.substack.com/pub/tigerabrodi)
 - [Software Design: Tidy First?](https://open.substack.com/pub/tidyfirst)
-- [Dev Interrupted](https://open.substack.com/users/89759436-dev-interrupted?utm_source=mentions)
+- [Dev Interrupted](https://open.substack.com/users/89759436-dev-interrupted)
+- [Exaltitude Career Growth](https://www.exaltitude.io/newsletter)
+- [A Life Engineered](https://newsletter.alifeengineered.com/)
 
 ### Staying up-to-date
 
 - [The Pragmatic Engineer](https://open.substack.com/pub/pragmaticengineer)
 - [TLDR](https://tldr.tech/)
 - [Pointer.io](https://www.pointer.io/)
+- [Changelog News](https://changelog.com/news)
+- [Hungry Minds](https://hungryminds.dev/)
 
 ### Frameworks and smart thinking
 
@@ -73,6 +80,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Josh Comeau](https://www.joshwcomeau.com/tutorials/) ([RSS Link](https://www.joshwcomeau.com/rss.xml))
 - [Friday Front-end](https://fridayfrontend.curated.co/)
 - [CSS Weekly](https://css-weekly.com/)
+- [Bytes.dev](https://bytes.dev/)
 
 ## Books
 
@@ -94,6 +102,7 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Crucial accountability](https://www.amazon.com/Crucial-Accountability-Resolving-Expectations-Commitments-ebook/dp/B00C4BDRW6)
 - [It was the best of sentences, it was the worst of sentences](https://www.amazon.com/Was-Best-Sentences-Worst-Crafting-ebook/dp/B0036S4AX6)
 - [On writing well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)
+- [The Insider's Guide to Technical Writing](https://www.amazon.com/Insiders-Guide-Technical-Writing-ebook/dp/B09X2CHHB1)
 
 ### Storytelling
 
@@ -109,13 +118,14 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 - [A philosophy of software design](https://www.amazon.com/Philosophy-Software-Design-2nd-ebook/dp/B09B8LFKQL)
 - [Web scalability for startup engineers](https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655)
+- [Collection - Grady Booch, Software architecture/design books](https://handbookofsoftwarearchitecture.com/books/)
 
 ### Software Engineer Overall
 
 - [Software Engineer's Guidebook](https://www.amazon.com/Software-Engineers-Guidebook-Navigating-positions/dp/908338182X)
 - [Engineers Survival Guide](https://www.amazon.com/Engineers-Survival-Guide-Facebook-Microsoft/dp/B09MBZBGFK)
 - [The Coding Career Handbook](https://learninpublic.org/)
-- [The Complete Software Developer's Career Guide](https://www.amazon.com/Complete-Software-Developers-Career-Guide-ebook/dp/B073X6GNJ1)
+- [Coders at Work: Reflections on the Craft of Programming](https://www.amazon.com/gp/product/1430219483)
 
 ### System Design
 
@@ -156,15 +166,42 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ## Courses
 
+### Top Courses
+
 - [Mid-level to Senior Course by Jordan Cutler](https://maven.com/jordan-cutler/mid-level-to-senior?promoCode=PATHTOSENIORHANDBOOK)
+- [Speedrun to Promotion by Steve Huynh](https://speedruntopromotion.com/)
 - [Josh Comeau CSS course](https://css-for-js.dev/)
 - [Josh Comeau React course](https://www.joyofreact.com/)
 - [Kent C Dodds Epic React](https://epicreact.dev/)
-- [Frontendmasters subscription](https://frontendmasters.com/)
 - [Kent C Dodds Epic Web](https://www.epicweb.dev/)
-- [Udemy courses](https://www.udemy.com/)
-- [GreatFrontEnd](https://www.greatfrontend.com/)
+- [Bob Ziroll Learn React for Free](https://scrimba.com/learn/learnreact)
+- [Google Technical Writing](https://developers.google.com/tech-writing/overview)
 
+### Recommended Websites
+
+- [Frontendmasters subscription](https://frontendmasters.com/)
+- [Udemy courses](https://www.udemy.com/)
+- [Educative subscription](https://www.educative.io/)
+- [Pluralsight courses](https://www.pluralsight.com/)
+- [Udacity courses](https://www.udacity.com/)
+- [Coursera courses](https://www.coursera.org/)
+- [Linkedin Learning](https://www.linkedin.com/learning/)
+- [Future Learn](https://www.futurelearn.com/subjects/it-and-computer-science-courses)
+- [edX](https://www.edx.org/)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/)
+- [GreatFrontEnd](https://www.greatfrontend.com/)
+- [Scrimba interactive courses](https://scrimba.com)
+- [KodeKloud](https://www.kodekloud.com)
+- [Hyperskill](https://hyperskill.org/tracks)
+
+## Papers
+
+- [Dynamo: Amazon's Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+- [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+- [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+- [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+- [Spanner: Google's Globally Distributed Database](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-16.pdf)
+- [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
 
 ## YouTube
 
@@ -176,6 +213,8 @@ This repo has all the resources you need to reach Senior Software Engineer!
 
 ### Senior+ Soft skills
 
+- [A Life Engineered - Steve Huynh](https://www.youtube.com/@ALifeEngineered)
+- [Exaltitude Career Growth](https://www.youtube.com/@exaltitude)
 - [LeadDev](https://www.youtube.com/@LeadDev/videos)
 - [Lenny’s Podcast](https://www.youtube.com/@LennysPodcast)
 - [Charisma on Command](https://www.youtube.com/@Charismaoncommand)
@@ -200,15 +239,24 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Soft skills Podcast](https://softskills.audio/)
 - [Staff Eng Podcast](https://podcast.staffeng.com/)
 - [Frontend First Podcast](https://www.youtube.com/@frontendfirst)
+- [The Changelog Podcast](https://changelog.fm)
+- [The Scrimba Podcast](https://scrimba.com/podcast/)
+- [Developing Leadership](https://www.developingleadership.co/)
+- [John Maxwell Leadership Podcast](https://johnmaxwellleadershippodcast.com/)
+
 
 ## Communities
 
 - [Taro](https://www.jointaro.com/)
-- [Small Bets Community](https://dvassallo.gumroad.com/l/small-bets) 
+- [Exaltitude Engineering Leadership Community](https://www.exaltitude.io/)
+- [Small Bets Community](https://dvassallo.gumroad.com/l/small-bets)
 - [Theo - T3](https://discord.com/invite/xHdCpcPHRE)
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [Kent C. Dodds Discord Community](https://kentcdodds.com/discord)
-
+- [Changelog Community](https://changelog.com/community)
+- [Scrimba Discord Community](https://scrimba.com/community)
+- [ladderly.io](https://ladderly.io/)
+- [Rands Leadership Community (Slack)](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
 
 ## LinkedIn
 
@@ -247,3 +295,27 @@ This repo has all the resources you need to reach Senior Software Engineer!
 - [Alex Kliotzkin](https://www.linkedin.com/in/alex-kliotzkin/)
 - [Nordine Hadi](https://www.linkedin.com/in/nordinehadi/)
 - [Yangshun Tay](https://www.linkedin.com/in/yangshun/)
+- [David Anderson](https://www.linkedin.com/in/scarletink/)
+- [Alexandre Zajac](https://www.linkedin.com/in/alexandre-zajac/)
+- [Jean Lee](https://www.linkedin.com/in/jeanklee/)
+
+## Platforms
+
+### Interview Prep
+
+#### Coding
+- [Leetcode](https://www.leetcode.com)
+- [Neetcode](https://www.neetcode.io)
+- [PyPup](https://www.pypup.com)
+
+#### Mock Interviews
+- [Pramp](https://www.pramp.com)
+- [Hello Interview](https://www.hellointerview.com)
+- [Interviewing IO](https://www.interviewing.io)
+- [IGotAnOffer](https://www.igotanoffer.com)
+- [MeetAPro](https://www.meetapro.com)
+
+## Other Catalogs
+
+- [Software Engineer's Library](https://kevinsmith.io/library/)
+- [16x Engineer](https://16x.engineer/)
